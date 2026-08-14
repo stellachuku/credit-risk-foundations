@@ -132,8 +132,8 @@ Multiple parties: interconnected transactions can transmit losses and create con
 These are the formulations to be used in a credit/risk interview, because they stay close to the Basel and ECB definitions rather than using the looser way "counterparty risk" is sometimes used in commercial credit discussions.
 
 ## Sources
-Basel Committee
-ECB
-CFA Institute
-GARP
+Basel Committee;
+ECB;
+CFA Institute;
+GARP;
 relevant central-bank/regulatory material
