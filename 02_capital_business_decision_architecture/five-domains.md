@@ -6,7 +6,7 @@
 
 
 
-# Purpose of the Five Domains
+# Purpose of the Five Domains 
 
 The five domains are the core analytical dimensions through which a business is assessed.
 
@@ -19,7 +19,6 @@ They answer five sequential questions:
 5. **Capital** - Is capital creating sufficient value and is the business funded appropriately?
 
 The domains are not independent scores.
-
 They are used to develop a coherent business and capital-provider decision thesis.
 
 
